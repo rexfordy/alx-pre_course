@@ -1,2 +1,2 @@
-My first readme
-It's friendly working with GUI compare to CLI
+
+It's friendly working with Graphic User Interface compared to Command Line Interface.
